@@ -63,3 +63,11 @@ yarn-debug.log
 
 # Ignore Docker option files
 docker-compose.override.yml
+
+
+
+/.github/workflows/build-image.yml
+/.github/workflows/check-i18.yml
+/.github/workflows/codeql.yml
+/.github/workflows/linter.yml
+/.github/workflows/rebase-needed.yml
